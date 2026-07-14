@@ -136,7 +136,7 @@ public class MainFrame extends JFrame {
         lb = new JLabel();
         pnl.add(lb);
         Font font1 = new Font("Times New Roman", Font.PLAIN, 15);
-        String txt = "Привет! Это литературная утилита, в которой есть... (пока реализован далеко не весь функционал) Автор программы - Колесник Тимофей Витальевич";
+        String txt = "Привет! Это литературная утилита, в которой есть... (пока реализован далеко не весь функционал) Автор программы - timkol-hash";
         lb.setText(txt);
         lb.setFont(font1);
         MainTb.addTab("О программе", lb);
